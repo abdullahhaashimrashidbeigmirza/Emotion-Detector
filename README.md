@@ -16,4 +16,3 @@
 
 ## The detailed tutorial is available in this video. Please do refer for better understanding.
 
-- https://youtu.be/PulKlAZRoAY
